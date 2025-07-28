@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/princesharma-2210/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,8 +42,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/princesharma-2210/leetcode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/princesharma-2210/leetcode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
