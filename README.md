@@ -49,14 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/princesharma-2210/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/princesharma-2210/leetcode/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
