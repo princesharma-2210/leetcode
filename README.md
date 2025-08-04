@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princesharma-2210/leetcode/tree/master/0001-two-sum) |
+| [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/princesharma-2210/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/princesharma-2210/leetcode/tree/master/0076-minimum-window-substring) |
+| [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/princesharma-2210/leetcode/tree/master/0076-minimum-window-substring) |
+| [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
