@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/princesharma-2210/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
