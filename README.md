@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/princesharma-2210/leetcode/tree/master/0182-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
