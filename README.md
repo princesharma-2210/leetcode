@@ -121,15 +121,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princesharma-2210/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princesharma-2210/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/princesharma-2210/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
