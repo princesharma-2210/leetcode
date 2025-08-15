@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
