@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/princesharma-2210/leetcode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/princesharma-2210/leetcode/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/princesharma-2210/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/princesharma-2210/leetcode/tree/master/0183-customers-who-never-order) |
