@@ -139,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/princesharma-2210/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
