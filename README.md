@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princesharma-2210/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/princesharma-2210/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/princesharma-2210/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/princesharma-2210/leetcode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/princesharma-2210/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/princesharma-2210/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/princesharma-2210/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/princesharma-2210/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
