@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/princesharma-2210/leetcode/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/princesharma-2210/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/princesharma-2210/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/princesharma-2210/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/princesharma-2210/leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/princesharma-2210/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
