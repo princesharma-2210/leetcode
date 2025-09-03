@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/princesharma-2210/leetcode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/princesharma-2210/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/princesharma-2210/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/princesharma-2210/leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/princesharma-2210/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
