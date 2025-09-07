@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/princesharma-2210/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/princesharma-2210/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
