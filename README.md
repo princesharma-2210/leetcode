@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Counting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
