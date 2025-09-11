@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2887-sort-vowels-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
+| [2887-sort-vowels-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
