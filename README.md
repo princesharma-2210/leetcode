@@ -187,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
 ## Graph
 |  |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
