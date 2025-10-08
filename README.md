@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/princesharma-2210/leetcode/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/princesharma-2210/leetcode/tree/master/0816-design-hashset) |
+| [0969-number-of-recent-calls](https://github.com/princesharma-2210/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/princesharma-2210/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/princesharma-2210/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/princesharma-2210/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
