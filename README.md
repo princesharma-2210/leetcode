@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/princesharma-2210/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2427-first-letter-to-appear-twice](https://github.com/princesharma-2210/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2427-first-letter-to-appear-twice](https://github.com/princesharma-2210/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/princesharma-2210/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2427-first-letter-to-appear-twice](https://github.com/princesharma-2210/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/princesharma-2210/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
