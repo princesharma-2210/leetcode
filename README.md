@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/princesharma-2210/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/princesharma-2210/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/princesharma-2210/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/princesharma-2210/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
