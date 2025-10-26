@@ -230,20 +230,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/princesharma-2210/leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Queue
 |  |
 | ------- |
