@@ -238,11 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/princesharma-2210/leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
 | [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
 | [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
