@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
+| [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
 | [0816-design-hashset](https://github.com/princesharma-2210/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/princesharma-2210/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
 | [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/princesharma-2210/leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/princesharma-2210/leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/princesharma-2210/leetcode/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
 | [2439-longest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/princesharma-2210/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Graph
@@ -302,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/princesharma-2210/leetcode/tree/master/0969-number-of-recent-calls) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
