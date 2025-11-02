@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princesharma-2210/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/princesharma-2210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/princesharma-2210/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/princesharma-2210/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/princesharma-2210/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/princesharma-2210/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/princesharma-2210/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
