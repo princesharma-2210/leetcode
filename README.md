@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/princesharma-2210/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Counting
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/princesharma-2210/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/princesharma-2210/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/princesharma-2210/leetcode/tree/master/1013-fibonacci-number) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/princesharma-2210/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/princesharma-2210/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
