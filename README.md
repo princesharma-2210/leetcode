@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/princesharma-2210/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/princesharma-2210/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/princesharma-2210/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princesharma-2210/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/princesharma-2210/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/princesharma-2210/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/princesharma-2210/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/princesharma-2210/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/princesharma-2210/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2481-strictly-palindromic-number](https://github.com/princesharma-2210/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/princesharma-2210/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/princesharma-2210/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/princesharma-2210/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/princesharma-2210/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/princesharma-2210/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princesharma-2210/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/princesharma-2210/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/princesharma-2210/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/princesharma-2210/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/princesharma-2210/leetcode/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/princesharma-2210/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
