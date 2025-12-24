@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/princesharma-2210/leetcode/tree/master/0695-max-area-of-island) |
 | [0816-design-hashset](https://github.com/princesharma-2210/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/princesharma-2210/leetcode/tree/master/1002-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/princesharma-2210/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/princesharma-2210/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0816-design-hashset](https://github.com/princesharma-2210/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/princesharma-2210/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/princesharma-2210/leetcode/tree/master/1002-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/princesharma-2210/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/princesharma-2210/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/princesharma-2210/leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/princesharma-2210/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/princesharma-2210/leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/princesharma-2210/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1002-find-common-characters](https://github.com/princesharma-2210/leetcode/tree/master/1002-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/princesharma-2210/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/princesharma-2210/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2427-first-letter-to-appear-twice](https://github.com/princesharma-2210/leetcode/tree/master/2427-first-letter-to-appear-twice) |
